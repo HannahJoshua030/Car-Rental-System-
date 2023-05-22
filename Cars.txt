@@ -1,0 +1,11 @@
+ID,Name,Model,Type,Seats,Transmission,Price,Status
+1,BMW 330E,2019,Sedan,5,Automatic,42.00,Available
+2,BMW Mini-3DOOR,2020,Hatchback,4,Automatic,26.50,Available
+3,Honda City,2021,Sedan,5,Automatic,13.67,Available
+4,Honda CR-V,2022,SUV,5,Manual,22.15,Available
+5,Hyundai Sonanta,2019,Sedan,5,Automatic,21.90,Available
+6,Hyundai Santa-FE,2020,SUV,7,Automatic,30.50,Available
+7,Kia Carnival,2021,MPV,11,Manual,40.50,Available
+8,Kia Picanto,2022,Economy,5,Automatic,9.54,Available
+9,Toyota Altis,2019,Sedan,5,Automatic,15.90,Available
+10,Toyota Rush,2020,SUV,7,Automatic,15.79,Available
